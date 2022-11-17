@@ -3,7 +3,9 @@
     padding: 0;
 }
 
-h1{
-    background-color: navy;
-    color: skyblue;
+.scrollingText{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(0, 0, 81);
+    color: rgb(182, 228, 246);
+    text-decoration: underline;
 }
